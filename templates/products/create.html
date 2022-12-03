@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+{% block site_title %}
+    Create a product
+{% endblock %}
+{% block site_content %}
+    <form action="" method="post" enctype='multipart/form-data'>
+        {% csrf_token %}
+        {{ form }}
+
+        <button>Create</button>
+    </form>
+{% endblock %}
+
