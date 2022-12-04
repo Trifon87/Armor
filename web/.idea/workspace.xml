@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02d1627f-c710-4ca1-b912-a185797acd02" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/armor.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armor/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armor/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armor/authentication/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armor/authentication/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armor/authentication/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armor/authentication/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armor/authentication/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armor/authentication/migrations/0002_profile_profile_picture.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armor/authentication/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armor/authentication/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armor/authentication/receivers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armor/authentication/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armor/authentication/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armor/authentication/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armor/common/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armor/common/form_mixin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armor/products/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armor/products/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armor/products/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armor/products/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armor/products/migrations/0002_product_slug.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armor/products/migrations/0003_alter_product_slug.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armor/products/migrations/0004_post_image.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armor/products/migrations/0005_auto_20211124_0036.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armor/products/migrations/0006_alter_product_user.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armor/products/migrations/0007_alter_product_user.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armor/products/migrations/0008_product_price.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armor/products/migrations/0009_alter_product_slug.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armor/products/migrations/0010_alter_product_name.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armor/products/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armor/products/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armor/products/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armor/products/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armor/products/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armor/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armor/templatetags/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armor/templatetags/create_product.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armor/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../armor/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../media/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../media/.idea/media.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../media/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../media/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../media/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../media/products/0013691_att1-adidas-taekwondo-majica-s-kapuljacom.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../media/products/0013692_att1-adidas-taekwondo-majica-s-kapuljacom.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../media/products/0013695_att1-adidas-taekwondo-majica-s-kapuljacom.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../media/products/0013695_att1-adidas-taekwondo-majica-s-kapuljacom_JmPIGrV.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../media/products/0013695_att1-adidas-taekwondo-majica-s-kapuljacom_eVD2vrV.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../media/products/0013700_att2-adidas-taekwondo-majica-s-kratkim-rukavima.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../media/products/0013705_att2-adidas-taekwondo-majica-s-kratkim-rukavima.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../media/products/0014093_3022-pro-swivel_1000.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../media/products/0014179_1001-pride-prof-visokokvalitetna-vreca-za-udaranje-puna.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../media/products/0014179_1001-pride-prof-visokokvalitetna-vreca-za-udaranje-puna_yjys7p1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../media/products/1295.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../media/products/1295_26OiDqd.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../media/products/1295_4SbmMKI.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../media/products/1295_6Yo7bMw.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../media/products/1295_RbbokfX.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../media/products/1295_aUiGXRu.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../media/products/1295_dGAHbLi.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../media/products/1295_jNrbXzc.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../media/products/1312.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../media/products/1472.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../media/products/1473.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../media/products/1474.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../media/products/1475.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../media/products/704.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../media/products/705.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../media/products/IMG_20201019_110126.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../media/products/IMG_20201023_151513.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../media/products/IMG_20201023_151522.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/css/bootsrap-registration.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/products/0013695_att1-adidas-taekwondo-majica-s-kapuljacom.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../static/products/0014179_1001-pride-prof-visokokvalitetna-vreca-za-udaranje-puna.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/auth/signin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/auth/signup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/auth/user_details.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/base.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/partials/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/products/create.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/products/details.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../templates/products/list.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2IRL4twqtZcRz7jPJTcLVkNQI3p" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Armor" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Armor" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="armor.settings" />
+      </envs>
+      <option name="SDK_HOME" value="E:\Projects\Armor\web\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02d1627f-c710-4ca1-b912-a185797acd02" name="Changes" comment="" />
+      <created>1670139262886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670139262886</updated>
+      <workItem from="1670139264943" duration="882000" />
+      <workItem from="1670141204249" duration="1650000" />
+      <workItem from="1670161570510" duration="868000" />
+      <workItem from="1670162509421" duration="2259000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
